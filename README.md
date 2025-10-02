@@ -127,5 +127,6 @@ websocket-chat/
 ## 🐛 已知BUG
 - 登录时直接进入频道会导致无法发送消息，需要先自定义一个用户名
 
-# 此项目的README以后将不会更新，会转至
+# 此项目的README以后将不会更新，会转至https://www.fmcraft.top/index.php/archives/52.html
+
 ## 🤖 本项目由AI主力开发 
